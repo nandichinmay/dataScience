@@ -12,7 +12,7 @@ $ pip install swifter # first time installation
 import pandas as pd
 import swifter
 ```
-Further documentations on swifter is available [here](docs/documentation.md).
+Further documentations on swifter is available [here](https://github.com/jmcarpenter2/swifter/blob/master/docs/documentation.md).
 
 ## Notes
 1. Please upgrade your version of pandas, as the pandas extension api used in this module is a recent addition to pandas.
