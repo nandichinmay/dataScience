@@ -23,4 +23,4 @@ Further documentations on swifter is available [here](docs/documentation.md).
 
 
 ## For more check out its git repository:
-   [![Git] https://github.com/jmcarpenter2/swifter
+  ![GitHub stars](https://img.shields.io/github/stars/jmcarpenter2/swifter.svg?style=popout)
